@@ -35,3 +35,5 @@ __pypackages__/
 
 # Data folder
 data/
+Phi-3.5-mini-instruct-4bit/
+adapters/
