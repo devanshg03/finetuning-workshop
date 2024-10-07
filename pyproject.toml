@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "finetuning"
+version = "0.1.0"
+description = "A simple example for you to learn to fine-tune a model to speak like you using your Whatsapp Chat Data"
+authors = ["devanshg03 <105848104+devanshg03@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mlx = "^0.18.0"
+mlx-lm = "^0.19.0"
+torch = "^2.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

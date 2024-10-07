@@ -34,6 +34,10 @@ __pypackages__/
 .env*
 
 # Data folder
-data/
+data/*/*
 Phi-3.5-mini-instruct-4bit/
-adapters/
+adapters/*
+models/*
+
+# MacOS
+.DS_Store
