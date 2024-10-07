@@ -1,10 +1,5 @@
 # Finetuning Workshop by Devansh Gandhi at the University of Hong Kong
 
-Who's Devansh's
-
-- Co-founder and CTO at Decisions Lab
-- Co-founder of ESo Ventures, HKU's Student Led-Angel Investment Network
-
 Our goal today is to help you finetune [Microsoft Phi 3.5 Mini Instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) to speak like you by finetuning it locally on your a certain WhatsApp Chat of yours.
 
 ## Pre-Requisties and Requirements
