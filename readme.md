@@ -1,6 +1,6 @@
 # Finetuning Workshop by Devansh Gandhi at the University of Hong Kong
 
-This repo is to help you fine-tune [Microsoft Phi 3.5 Mini Instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) to speak like you by finetuning it locally on a WhatsApp chat of yours.
+This repository is to help you fine-tune [Microsoft Phi 3.5 Mini Instruct](https://huggingface.co/microsoft/Phi-3.5-mini-instruct) to speak like you by finetuning it locally on a WhatsApp chat of yours.
 
 ## Prerequisites and Requirements
 
